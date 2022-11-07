@@ -13,5 +13,5 @@ echo '<body>' >> index.html
 echo '<h1>Oleksandr Volotovskyi</h1>' >> index.html
 echo '</body>' >> index.html
 echo '</html>' >> index.html
-#sudo service apache2 start
+
 
